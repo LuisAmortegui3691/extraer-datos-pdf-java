@@ -1,0 +1,550 @@
+FACTURA ELECTRÓNICA DE VENTA
+Representación Gráfica
+ 
+Posicion 0. $
+Posicion 1. $
+Posicion 2. $
+Posicion 3. $
+Posicion 4. $
+FACTURA
+Posicion 5. ELECTRÓNICA
+Posicion 6. DE
+Posicion 7. VENTA
+Representación
+Posicion 8. Gráfica
+Posicion 9. Datos
+Posicion 10. del
+Posicion 11. Documento
+Código
+Posicion 12. Único
+Posicion 13. de
+Posicion 14. Factura
+Posicion 15. -
+Posicion 16. CUFE
+Posicion 17. :
+Posicion 18. e26b42b9bd2095e409d1a9a7c39f789730c707ca39ac6d6c80b602c7a8d96
+b3d7c0cbc1d8caf5a186b2061e3213924e4
+Número
+Posicion 19. de
+Posicion 20. Factura:
+Posicion 21. 
+Posicion 22. 
+Posicion 23. FE-25219
+Posicion 24. Forma
+Posicion 25. de
+Posicion 26. pago:
+Posicion 27. 
+Posicion 28. 
+Posicion 29. Crédito
+Fecha
+Posicion 30. de
+Posicion 31. Emisión:
+Posicion 32. 
+Posicion 33. 
+Posicion 34. 11/05/2023
+Posicion 35. Medio
+Posicion 36. de
+Posicion 37. Pago:
+Posicion 38. 
+Posicion 39. 
+Posicion 40. Instrumento
+Posicion 41. no
+Posicion 42. definido
+Fecha
+Posicion 43. de
+Posicion 44. Vencimiento:
+Posicion 45. 
+Posicion 46. 
+Posicion 47. 10/06/2023
+Posicion 48. Orden
+Posicion 49. de
+Posicion 50. pedido:
+Posicion 51. 
+Posicion 52. 
+Posicion 53. 1013602601
+Tipo
+Posicion 54. de
+Posicion 55. Operación:
+Posicion 56. 
+Posicion 57. 
+Posicion 58. 10
+Posicion 59. -
+Posicion 60. Estándar
+Posicion 61. Fecha
+Posicion 62. de
+Posicion 63. orden
+Posicion 64. de
+Posicion 65. pedido:
+Posicion 66. 
+Posicion 67. 
+Posicion 68. 
+Posicion 69. Datos
+Posicion 70. del
+Posicion 71. Emisor
+Posicion 72. /
+Posicion 73. Vendedor
+Razón
+Posicion 74. Social:
+Posicion 75. 
+Posicion 76. 
+Posicion 77. Team
+Posicion 78. Avanza
+Posicion 79. Colombia
+Posicion 80. SAS
+Nombre
+Posicion 81. Comercial:
+Posicion 82. 
+Posicion 83. 
+Posicion 84. Team
+Posicion 85. Avanza
+Posicion 86. Colombia
+Posicion 87. SAS
+Nit
+Posicion 88. del
+Posicion 89. Emisor:
+Posicion 90. 
+Posicion 91. 
+Posicion 92. 901537628
+Posicion 93. País:
+Posicion 94. 
+Posicion 95. 
+Posicion 96. Colombia
+Tipo
+Posicion 97. de
+Posicion 98. Contribuyente:
+Posicion 99. 
+Posicion 100. 
+Posicion 101. Persona
+Posicion 102. Jurídica
+Posicion 103. Departamento:
+Posicion 104. 
+Posicion 105. 
+Posicion 106. Bogotá
+Régimen
+Posicion 107. Fiscal:O-15
+Posicion 108. Municipio
+Posicion 109. /
+Posicion 110. Ciudad:
+Posicion 111. 
+Posicion 112. 
+Posicion 113. Bogotá,
+Posicion 114. D.C.
+Responsabilidad
+Posicion 115. tributaria:
+Posicion 116. 
+Posicion 117. 
+Posicion 118. 01
+Posicion 119. -
+Posicion 120. IVA
+Posicion 121. Dirección:
+Posicion 122. 
+Posicion 123. 
+Posicion 124. AK
+Posicion 125. 7
+Posicion 126. No
+Posicion 127. 74-56
+Posicion 128. Of
+Posicion 129. 1102
+Actividad
+Posicion 130. Económica:
+Posicion 131. 
+Posicion 132. 
+Posicion 133. 4661
+Posicion 134. Teléfono
+Posicion 135. /
+Posicion 136. Móvil:
+Posicion 137. 
+Posicion 138. 
+Posicion 139. 601
+Posicion 140. 794
+Posicion 141. 4630
+Correo:
+Posicion 142. 
+Posicion 143. servicio.cliente@teamavanzacolombia.com.co
+Datos
+Posicion 144. del
+Posicion 145. Adquiriente
+Posicion 146. /
+Posicion 147. Comprador
+Nombre
+Posicion 148. o
+Posicion 149. Razón
+Posicion 150. Social:
+Posicion 151. 
+Posicion 152. 
+Posicion 153. PRIMAX
+Posicion 154. COLOMBIA
+Posicion 155. S
+Posicion 156. A
+Tipo
+Posicion 157. de
+Posicion 158. Documento:
+Posicion 159. 
+Posicion 160. 
+Posicion 161. NIT
+Posicion 162. País:
+Posicion 163. 
+Posicion 164. 
+Posicion 165. Colombia
+Número
+Posicion 166. Documento:
+Posicion 167. 
+Posicion 168. 
+Posicion 169. 860002554
+Posicion 170. Departamento:
+Posicion 171. 
+Posicion 172. Tipo
+Posicion 173. de
+Posicion 174. Contribuyente:
+Posicion 175. 
+Posicion 176. 
+Posicion 177. Persona
+Posicion 178. Natural
+Posicion 179. Municipio
+Posicion 180. /
+Posicion 181. Ciudad:
+Posicion 182. 
+Posicion 183. 
+Posicion 184. Bogotá,
+Posicion 185. D.c.
+Régimen
+Posicion 186. fiscal:
+Posicion 187. 
+Posicion 188. 
+Posicion 189. R-99-PN
+Posicion 190. Dirección:
+Posicion 191. 
+Posicion 192. 
+Posicion 193. CL
+Posicion 194. 90
+Posicion 195. #
+Posicion 196. 19C-32
+Posicion 197. 11001
+Posicion 198. BOGOTA
+COLOMBIA
+Responsabilidad
+Posicion 199. tributaria:
+Posicion 200. 
+Posicion 201. 
+Posicion 202. ZZ
+Posicion 203. -
+Posicion 204. No
+Posicion 205. aplica
+Posicion 206. Teléfono
+Posicion 207. /
+Posicion 208. Móvil:
+Posicion 209. 
+Posicion 210. 
+Posicion 211. 6283200
+Correo:
+Posicion 212. 
+Posicion 213. 
+Posicion 214. proveedoresfe@primax.com.co
+Detalles
+Posicion 215. de
+Posicion 216. Productos
+Posicion 217. 
+Posicion 218. IMPUESTOS
+Posicion 219. Precio
+unitario
+Posicion 220. de
+ventaNro.
+Posicion 221. Código
+Posicion 222. Descripción
+Posicion 223. U/M
+Posicion 224. Cantidad
+Posicion 225. Precio
+Posicion 226. unitario
+Posicion 227. Descuento
+detalle
+Recargo
+Posicion 228. detalle
+Posicion 229. IVA
+Posicion 230. %
+Posicion 231. INC
+Posicion 232. %
+1
+Posicion 233. 0550059233
+Posicion 234. Advance
+Posicion 235. 4T
+Posicion 236. AX5
+Posicion 237. 20W50
+Caja
+Posicion 238. 1L
+Posicion 239. x
+Posicion 240. 6Uns
+94
+Posicion 241. 2,00
+Posicion 242. 88.776,55
+Posicion 243. 0,00
+Posicion 244. 0,00
+Posicion 245. 33.735,09
+Posicion 246. 19.00
+Posicion 247. 
+Posicion 248. 
+Posicion 249. 177.553,10
+Posicion 250. 
+Posicion 251. 
+Posicion 252. 
+Posicion 253. 
+Posicion 254. 
+Posicion 255. 
+Posicion 256. 
+Posicion 257. 
+Posicion 258. 
+Posicion 259. 
+Posicion 260. 
+Posicion 261. 
+Posicion 262. Descuentos
+Posicion 263. y
+Posicion 264. Recargos
+Posicion 265. Globales
+Nro.
+Posicion 266. Tipo
+Posicion 267. Código
+Posicion 268. Descripción
+Posicion 269. %
+Posicion 270. Valor
+Información
+Posicion 271. Complementaria
+Nro
+Posicion 272. Nombre
+Posicion 273. Campo
+Posicion 274. Valor
+Posicion 275. Campo
+Anticipos
+Nro
+Posicion 276. Valor
+Posicion 277. Fecha
+Posicion 278. recibido
+Referencias
+Tipo
+Posicion 279. de
+Posicion 280. Documento
+Posicion 281. Referencia
+Posicion 282. Número
+Posicion 283. Referencia
+Posicion 284. Fecha
+Posicion 285. Referencia
+Posicion 286. 
+Posicion 287. 
+Posicion 288. $
+Notas
+Posicion 289. Finales
+Observacion;No:1013602601
+Posicion 290. EDS:
+Posicion 291. ESTACION
+Posicion 292. MIRAFLORES
+Posicion 293. Dr:
+Posicion 294. CL
+Posicion 295. 49
+Posicion 296. No
+Posicion 297. 27A-21
+Posicion 298. BARRIO
+Posicion 299. BUENOS
+Posicion 300. AIRES
+Posicion 301. MEDELLIN
+Posicion 302. /
+Posicion 303. ANTIOQUIA
+Posicion 304. Entrega
+:Lun
+Posicion 305. a
+Posicion 306. Vier
+Posicion 307. 7am
+Posicion 308. a
+Posicion 309. 5pm
+Posicion 310. y
+Posicion 311. Sab
+Posicion 312. 1pm
+Posicion 313. Basado
+Posicion 314. en
+Posicion 315. Pedidos
+Posicion 316. de
+Posicion 317. cliente
+Posicion 318. 20077.
+Posicion 319. Basado
+Posicion 320. en
+Posicion 321. Entregas
+Posicion 322. 24009.
+Referencia;860002554-8
+OBLIGTRIB;Aplicar
+Posicion 323. Retención
+Posicion 324. de
+Posicion 325. ICA
+Posicion 326. solo
+Posicion 327. en
+Posicion 328. la
+Posicion 329. ciudad
+Posicion 330. de
+Posicion 331. Bogotá
+Posicion 332. -
+Posicion 333. Actividad
+Posicion 334. Economica
+Posicion 335. Principal
+Posicion 336. 4661
+Posicion 337. Comercio
+Posicion 338. al
+Posicion 339. por
+Posicion 340. mayor
+Posicion 341. de
+Posicion 342. combustibles
+sólidos,
+Posicion 343. líquidos,
+Posicion 344. gaseosos
+Posicion 345. y
+Posicion 346. productos
+Posicion 347. conexos
+Posicion 348. Tarifa
+Posicion 349. 11.04
+Posicion 350. -
+Posicion 351. Responsable
+Posicion 352. de
+Posicion 353. IVA
+INFBANC;Consignación
+Posicion 354. o
+Posicion 355. transferencia
+Posicion 356. a
+Posicion 357. la
+Posicion 358. FIDUCIARIA
+Posicion 359. BANCOLOMBIA
+Posicion 360. S.A.
+Posicion 361. SOCIEDAD
+Posicion 362. FIDUCIARIA
+Posicion 363. realizó
+Posicion 364. ante
+Posicion 365. Bancolombia
+Posicion 366. S.A.
+Posicion 367. la
+Posicion 368. constit
+ución
+Posicion 369. de
+Posicion 370. la
+Posicion 371. Cuenta
+Posicion 372. Corriente
+Posicion 373. No.69000003550
+Posicion 374. denominada
+Posicion 375. P.A.
+Posicion 376. FTP
+Posicion 377. TEAM
+Posicion 378. AVANZA
+Posicion 379. identificada
+Posicion 380. con
+Posicion 381. el
+Posicion 382. NIT
+Posicion 383. 830054539B
+SOPPAG;Enviar
+Posicion 384. la
+Posicion 385. relación
+Posicion 386. de
+Posicion 387. facturas
+Posicion 388. pagadas
+Posicion 389. y
+Posicion 390. el
+Posicion 391. soporte
+Posicion 392. de
+Posicion 393. pago
+Posicion 394. al
+Posicion 395. correo
+Posicion 396. servicio.cliente@teamavanzacolombia.com.co
+ORDENENTREGA;24009
+Datos
+Posicion 397. Totales
+Acuse
+Posicion 398. de
+Posicion 399. recibo
+Posicion 400. de
+Posicion 401. Factura
+Posicion 402. Electrónica
+Posicion 403. de
+Venta
+Posicion 404. 12/05/2023
+Posicion 405. 01:42:34
+Documento
+Posicion 406. generado
+Posicion 407. el:
+Posicion 408. 2023-05-11
+17:09:19
+Generado
+Posicion 409. por:Solución
+Posicion 410. Gratuita
+Posicion 411. DIAN
+Nit:800.197.268
+Posicion 412. 
+Posicion 413. MONEDA
+Posicion 414. COP
+TASA
+Posicion 415. DE
+Posicion 416. CAMBIO
+Subtotal
+Posicion 417. 177.553,10
+Descuento
+Posicion 418. detalle
+Posicion 419. 0,00
+Recargo
+Posicion 420. detalle
+Posicion 421. 0,00
+Total
+Posicion 422. Bruto
+Posicion 423. Factura
+Posicion 424. 177.553,10
+IVA
+Posicion 425. 33.735,09
+INC
+Posicion 426. 0,00
+Bolsas
+Posicion 427. 0,00
+Otros
+Posicion 428. impuestos
+Posicion 429. 0,00
+Total
+Posicion 430. impuesto
+Posicion 431. (=)
+Posicion 432. 33.735,09
+Total
+Posicion 433. neto
+Posicion 434. factura
+Posicion 435. (=)
+Posicion 436. 211.288,19
+Descuento
+Posicion 437. Global
+Posicion 438. (-)
+Posicion 439. 0,00
+Recargo
+Posicion 440. Global
+Posicion 441. (+)
+Posicion 442. 0,00
+Total
+Posicion 443. factura
+Posicion 444. (=)
+Posicion 445. ?????
+Posicion 446. 
+Posicion 447. COP
+Posicion 448. $
+Posicion 449. 211.288,19
+Valores
+Posicion 450. informativos
+ANTICIPOS
+Anticipos
+Posicion 451. 0,00
+RETENCIONES
+Rete
+Posicion 452. fuente
+Posicion 453. 4.438,83
+Rete
+Posicion 454. IVA
+Posicion 455. 5.060,26
+Rete
+Posicion 456. ICA
+Posicion 457. 1.960,19
+Numero
+Posicion 458. de
+Posicion 459. Autorización:
+Posicion 460. 18764036776677
+Posicion 461. Rango
+Posicion 462. desde:
+Posicion 463. 10001
+Posicion 464. Rango
+Posicion 465. hasta:
+Posicion 466. 100000
+Posicion 467. Vigencia:
+Posicion 468. 2023-09-26
